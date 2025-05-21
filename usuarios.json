@@ -1,0 +1,36 @@
+[
+    {
+        "nome": "51d3ba50d3e136bc03ca019303427831f4f49d88b775b4a529685533c8ce0e65",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "idade": 19,
+        "genero": "Masculino",
+        "tempo_de_uso": 0,
+        "tempos_quiz": []
+    },
+    {
+        "nome": "dbff635cd6ddd5c04c4fdf87fb8fd9688b491c85afb8a8fcc5ed22c470eac714",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "idade": 19,
+        "genero": "Masculino",
+        "tempo_de_uso": 0,
+        "tempos_quiz": []
+    },
+    {
+        "nome": "4135aa9dc1b842a653dea846903ddb95bfb8c5a10c504a7fa16e10bc31d1fdf0",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "idade": 17,
+        "genero": "Outros",
+        "tempo_de_uso": 0,
+        "tempos_quiz": []
+    },
+    {
+        "nome": "51b892c1bb76900f89f3e381b617ba017d81085055d4b2ecaf97d182437c7c97",
+        "senha": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "idade": 17,
+        "genero": "Masculino",
+        "tempo_de_uso": 1,
+        "tempos_quiz": [
+            0.5076339801152547
+        ]
+    }
+]
